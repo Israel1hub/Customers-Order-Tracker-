@@ -51,6 +51,8 @@ Joined remaining customer-related tables to track only customers with at least o
 
 I developed an interactive dashboard in Power BI that consolidates revenue, customer behavior, transaction performance, and membership contributions into one view.
 
+<img width="926" height="407" alt="C1" src= "https://github.com/Israel1hub/Customers-Order-Tracker-/blob/main/c1.png"/>
+
 ## What This Dashboard Provides
 
 1.Revenue & Order Tracking – Total revenue ($9.29bn), order amount, and number of orders (30M), with YoY & PY comparisons.
