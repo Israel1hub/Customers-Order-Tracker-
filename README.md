@@ -33,7 +33,7 @@ Release Date Column: Corrected invalid date formats using the same locale method
 
 3. Product Table
 
-Removed duplicate entries based on product_name.
+Removed duplicate entries based on product_id.
 
 4. Review Table
 
