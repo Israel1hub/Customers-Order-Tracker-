@@ -51,7 +51,7 @@ Joined remaining customer-related tables to track only customers with at least o
 
 I developed an interactive dashboard in Power BI that consolidates revenue, customer behavior, transaction performance, and membership contributions into one view.
 
-<img width="926" height="407" alt="C1" src= "https://github.com/Israel1hub/Customers-Order-Tracker-/blob/main/c1.png"/>
+<img width="926" height="407" alt="C1" src= "[>
 
 ## What This Dashboard Provides
 
