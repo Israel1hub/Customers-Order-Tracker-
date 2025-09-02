@@ -46,3 +46,33 @@ Performed a left join between Customers and Orders to ensure all customer record
 Joined remaining customer-related tables to track only customers with at least one order history (removing orphan records with no transactions).
 
  Final dataset is clean, consistent, and relationally accurate, enabling reliable insights on customer behavior, product performance, and transaction tracking.
+
+## Solution
+
+I developed an interactive dashboard in Power BI that consolidates revenue, customer behavior, transaction performance, and membership contributions into one view.
+
+## What This Dashboard Provides
+
+1.Revenue & Order Tracking – Total revenue ($9.29bn), order amount, and number of orders (30M), with YoY & PY comparisons.
+
+2.Monthly Sales Trends – Seasonal patterns and sales peaks/drops.
+
+3.Customer Behavior Insights – Verified vs. non-verified purchases, average order quantity, buying habits by day of the week, demographics by age & gender.
+
+4.Payment & Membership Analysis – Preferred payment methods and membership-level contributions.
+
+5.Transaction Performance – Completed vs Pending transactions, App vs Website orders, cancellation rate (20.01%).
+
+6. Filtered by products name and customer ID
+
+## Business Value
+
+1. Spot sales trends and plan inventory.
+   
+2.Improve customer experience by knowing when and how people shop.
+
+3. Optimize marketing & sales strategies by targeting the right demographics, payment preferences, and membership groups.
+
+4. Track customer orders
+
+- <a href= "https://drive.google.com/file/d/150YInsMb5DVRpj53m3QUFDxg9FkH8jiE/view?usp=sharing">Customer Dataset</a>
